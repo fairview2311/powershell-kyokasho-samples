@@ -1,0 +1,4 @@
+# 前任者のファイルと CSV は、Windows で使うときの形（Shift-JIS・CRLF）のまま配る
+*.bat -text
+*.vbs -text
+*.csv -text
